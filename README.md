@@ -1,15 +1,15 @@
-# ¡Hola! Soy nohaypod 👋
+# ¡Hola! Soy Aldo 👋
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nohaypod&color=blue&style=flat-square" alt="Vistas de perfil" />
 </p>
 
-### 🚀 Sobre mí
-Soy un apasionado de la tecnología y el desarrollo de software. Me encanta transformar ideas complejas en soluciones digitales funcionales y elegantes.
+### 🚀 ¿Cómo hacer que se trate de tí?
+Me encanta transformar ideas complejas en soluciones funcionales y elegantes.
 
 - 🛠️ Actualmente trabajando en proyectos con **Next.js** y **Tailwind CSS**.
-- 🌐 Exploro constantemente nuevas arquitecturas web y optimización SEO.
-- 🎸 En mi tiempo libre, me verás descifrando tablaturas o explorando nuevos sonidos.
+- 🌐 Exploro constantemente nuevas arquitecturas web.
+- 🎸 En mi tiempo libre, me verás cotorreando y disfrutando de la música.
 
 ---
 
@@ -23,10 +23,7 @@ Soy un apasionado de la tecnología y el desarrollo de software. Me encanta tran
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
----
-
-[![Desplegado en Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/aeledeo9-gmailcoms-projects)
 
 ### 📫 Contacto
 ¿Tienes alguna idea interesante o quieres colaborar? 
-¡Conectemos y hagamos que las cosas sucedan!
+¡Conectemos y hagamos que las cosas sucedan! aldo.click
