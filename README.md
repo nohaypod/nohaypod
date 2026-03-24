@@ -25,14 +25,7 @@ Soy un apasionado de la tecnología y el desarrollo de software. Me encanta tran
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nohaypod&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nohaypod&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
+[![Desplegado en Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/aeledeo9-gmailcoms-projects)
 
 ### 📫 Contacto
 ¿Tienes alguna idea interesante o quieres colaborar? 
