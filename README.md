@@ -1,6 +1,6 @@
 # Hola, soy Aldo Ortega 👋
 
-**Ingeniero en Comunicaciones y Electrónica | Full-stack Developer**
+**Pasante de Ingeñero Comunicaciones y Electrónica | Full-stack Developer**
 
 ---
 
